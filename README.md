@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Miguel+Martins+%F0%9F%91%8B; Analista+Administrativo;Especialista+em+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+com+TypeScript+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Miguel+Martins+%F0%9F%91%8B; Analista+Administrativo+Financeiro;Especialista+em+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+com+TypeScript+%2B+AI)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=header&fontSize=0" width="100%"/>
 
