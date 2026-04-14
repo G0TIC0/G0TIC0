@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing animation via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Miguel+Martins+%F0%9F%91%8B; Analista+Administrativo+Financeiro;Especialista+em+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+com+TypeScript+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Miguel+Martins+%F0%9F%91%8B;Analista+Administrativo+Financeiro;Especialista+em+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+com+TypeScript+%2B+AI)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=header&fontSize=0" width="100%"/>
 
@@ -65,7 +64,7 @@ Aberto a **projetos freelance** e oportunidades **CLT** em empresas que apostam 
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-miguel--martins--seven.vercel.app-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://miguel-martins-seven.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Martins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-martins-898051386?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: miguelmartins.sup@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelmartins.sup@gmail.com)
 
 </div>
 
